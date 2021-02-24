@@ -1,0 +1,93 @@
+*{padding: 0;margin: 0;border: 0;
+}
+
+body {
+
+background:#141b23;
+width: 1000px;
+height: 666px;
+background-image: url(../img/Bitmap.jpg);
+background-repeat: no-repeat;
+background-position: 333px -1px;
+background-size:  687px 459px;
+
+}
+
+.content {
+margin: 0px auto;
+font-family: "Franklin Gothic";
+text-shadow: 0 0 4px rgba(0, 0, 0, 0.65);
+
+
+}
+
+.content_nav {
+margin: 65px 0px 55px 71px;
+
+
+}
+.content_nav_text li{
+opacity: 0.87;
+width: 235px;
+height: 15px;
+color: #b1bbcb;
+
+font-size: 15px;
+font-weight: 500;
+display: inline;
+
+
+padding-right: 15px; /* Поля вокруг текста */
+
+}
+.content_nav_text li:nth-child(1) {
+   font-size: 17px;
+   line-height: 20.4px;
+   margin-left: 0px;
+
+}
+.content_nav_text li:nth-child(2) {
+   line-height: 18px;
+}
+
+a {
+   text-decoration: none;
+}
+
+.content_main {
+
+color: #ffffff;
+margin-left: 95px;
+}
+
+.content_title{
+
+font-size: 25px;
+font-weight: 500;
+line-height: 30px;
+padding-bottom: 10px;
+}
+
+.content_text{
+width: 467px;
+height: 230px;
+font-size: 13px;
+font-weight: 500;
+line-height: 15.6px;
+float: left;
+}
+
+.content_text p{
+margin-bottom: 20px;
+}
+
+
+.content_footer{
+opacity: 0.27;
+font-size: 12px;
+font-weight: 500;
+line-height: 14.4px;
+margin-left: 50px;
+
+margin-top: 427px ;
+}
